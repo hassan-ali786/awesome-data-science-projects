@@ -91,4 +91,4 @@ This repository is open for learning and educational purposes.
 ## Author
 
 Hassan Ali  
-Data Scientist and ML Engineer
+Data Scientist & ML Engineer
